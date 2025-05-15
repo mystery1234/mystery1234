@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mystery1234
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c++, python, java
+- 🌱 I’m currently learning c, c++, python, java
 - 💞️ I’m looking to collaborate on projects in python
 
 <!---
