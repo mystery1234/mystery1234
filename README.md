@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @mystery1234
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c, c++, python, java
-- 💞️ I’m looking to collaborate on projects in python
+Embedded Systems Engineer with a strong focus on C programming, real-time systems, and microcontroller-based development. Skilled in building efficient, reliable firmware using platforms like ARM and RTOS. Passionate about technology, with growing interests in data analysis and exploring diverse tech domains. Currently working on advanced embedded projects while preparing for high-impact roles in the industry.
 
 <!---
 mystery1234/mystery1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
