@@ -1,6 +1,5 @@
 👋 Hi, I’m **Shaik Ruksana**
-🎯 **Associate Product Manager** | Embedded Systems Enthusiast | Technology Problem-Solver
-
+🎯 Tech Explorer | Former Associate Product Manager | Embedded Systems Learner | Creative Problem Solver
 With experience in delivering impactful digital solutions across domains like media rights, healthcare, logistics, and CSR, I specialize in translating real-world challenges into effective product strategies and technical solutions. My work spans mobile/web platforms, IoT-based systems, and blockchain-enabled applications.
 
 💼 **Notable contributions**:
