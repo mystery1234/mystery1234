@@ -1,4 +1,24 @@
-Embedded Systems Engineer with a strong focus on C programming, real-time systems, and microcontroller-based development. Skilled in building efficient, reliable firmware using platforms like ARM and RTOS. Passionate about technology, with growing interests in data analysis and exploring diverse tech domains. Currently working on advanced embedded projects while preparing for high-impact roles in the industry.
+👋 Hi, I’m **Shaik Ruksana**
+🎯 **Associate Product Manager** | Embedded Systems Enthusiast | Technology Problem-Solver
+
+With experience in delivering impactful digital solutions across domains like media rights, healthcare, logistics, and CSR, I specialize in translating real-world challenges into effective product strategies and technical solutions. My work spans mobile/web platforms, IoT-based systems, and blockchain-enabled applications.
+
+💼 **Notable contributions**:
+
+* Developed a blockchain-based content rights management system
+* Led development of a cross-platform blood donation application
+* Researched and digitized route planning for a U.S. food brand
+* Designed livestock and CSR dashboards to improve operational oversight
+* Built embedded systems projects including gesture-controlled robotics and GSM-based monitoring solutions
+
+🔧 **Currently upskilling** in Embedded Systems Design at CDAC Hyderabad, with a focus on Embedded C, microcontrollers, RTOS, and IoT.
+
+💡 Passionate about building user-centered, scalable solutions and continuously learning to bridge the gap between technology and meaningful impact.
+
+📍Aspiring to grow globally, with a long-term vision of contributing to product innovation in Germany.
+
+<!---📫 [LinkedIn](https://www.linkedin.com/in/shaik-ruksana-4b4868213)--- !>
+
 
 <!---
 mystery1234/mystery1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
