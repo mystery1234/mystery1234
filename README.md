@@ -15,8 +15,7 @@ With experience in delivering impactful digital solutions across domains like me
 
 💡 Passionate about building user-centered, scalable solutions and continuously learning to bridge the gap between technology and meaningful impact.
 
-📍Aspiring to grow globally, with a long-term vision of contributing to product innovation in Germany.
-
+💡 I enjoy solving problems, learning fast, and exploring where tech, design, and innovation intersect. Open to new challenges in product, systems, or software that make a real difference.
 <!---📫 [LinkedIn](https://www.linkedin.com/in/shaik-ruksana-4b4868213)--- !>
 
 
